@@ -1,6 +1,8 @@
 # android_device_J260F
-
-Supports project treble. ARM_binder64 Slot A.
+# Device tree of Samsung J2 core(J260F) for building roms & kernel.
+Enjoy:))
+•What's device tree?
+In computing, a device tree is a data structure describing the hardware components of a particular computer so that the operating system's kernel can use and manage those components, including the CPU or CPUs, the memory, the buses and the peripherals. 
 
 
 
