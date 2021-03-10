@@ -1,6 +1,8 @@
 # android_device_J260F
 # Device tree of Samsung J2 core(J260F) for building roms & kernel.
 Enjoy:))
+
+
 •What's device tree?
 In computing, a device tree is a data structure describing the hardware components of a particular computer so that the operating system's kernel can use and manage those components, including the CPU or CPUs, the memory, the buses and the peripherals. 
 
@@ -24,3 +26,5 @@ Display | 540 x 960 pixels, 5.0"
 Rear Camera  | 8.0 MP with aperture f/2.2, LED flash
 Front Camera | 5.0 MP with aperture f/2.2
 Release Date | August 2018
+
+GG
